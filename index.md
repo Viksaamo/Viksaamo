@@ -3,7 +3,7 @@
 # Tervetuloa Viksaamoon!
 Viksaamo on vuonna 2017 perustettu autojen pesuun ja käsittelyyn erikoistunut toiminimi, jossa työn laatu on parasta mahdollista. Työtä tehdään useamman vuosikymmenen kokemuksella tarkasti, varmasti ja ripeästi.
 
-Mikäli haluat autollesi vain parasta mahdollista työn jälkeä, ota yhteyttä! 
+Mikäli haluat autollesi vain parasta mahdollista työn jälkeä, ota yhteyttä! Voit katsoa työn jälkeä esimerkiksi Facebookista: (https://fi-fi.facebook.com/Viksaamo/)
 
 ## Viksaamon hinnasto
 ---
