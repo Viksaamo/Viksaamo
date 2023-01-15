@@ -10,25 +10,22 @@ Mikäli haluat autollesi vain parasta mahdollista työn jälkeä, ota yhteyttä!
 
 Alla olevassa hinnastossa kaikki hinnat sisältävät ALV 24%. Kaikki hinnat ovat alkaen ja lopullinen hinta määräytyy ajoneuvon koon ja työmäärän mukaan.
 
-| Käsinpesut | Sisältö | Hinta |
-|---|---|---|
+| **Toimenpiteet** | Sisältö | Hinta (alkaen) |
+| --- | --- | --- |
+| **Pesut** | | | 
 | Normaali pesu | Auton peseminen käsin ja kuivaus | 30 e |
 | Premium pesu | Normaalin pesun lisäksi ovenpielien puhdistus + renkaiden käsittely | 40 e |
-
-| Sisäpuhdistukset | Sisältö | Hinta |
-|---|---|---|
+| **Sisäpuhdistukset**| | |
 | Normaali puhdistus | Sisäpintojen puhdistus, lasien sisäpintojen pesu, mattojen pesu sekä muoviosien käsittely | 80 e |
 | Premium puhdistus | Normaalin puhdistuksen lisäksi penkkien koneellinen pesu | 120 e |
 | Nahkapenkkien puhdistus | Puhdistus ja suojakäsittely | 80e |
-
-| Vahaukset ja pinnoitus | Sisältö | Hinta |
-|---|---|---|
+| **Vahaukset ja pinnoitus** |  | |
 | Kestovahaus | Premium pesu sekä kestovahaus | 180 e |
 | Pinnoitus | Keraaminen pinnoitus | 450 e |
 
 ---
 ## Yhteystiedot
----
+
 - Käyntiosoite: Portaantie 892, 31340 Tammela
 - Puhelinnumero: 045-6086595
 - Sähköposti: myllyla.juha@gmail.com
